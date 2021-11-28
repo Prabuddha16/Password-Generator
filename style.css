@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #1607b9;
+  background:linear-gradient(red,blue,yellow,black,green,violet,orange);
   color: #fff;
   font-family: 'Muli', sans-serif;
   display: flex;
